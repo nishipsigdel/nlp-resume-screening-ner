@@ -1,0 +1,19 @@
+# Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter and editor files
+.ipynb_checkpoints/
+.vscode/
+
+# Keep sensitive source material out of this public model repository
+*.csv
+*.xlsx
+*.xls
+*.jsonl
+data/
+datasets/
+resumes/
+annotations/
